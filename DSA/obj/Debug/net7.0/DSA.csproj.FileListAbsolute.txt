@@ -1,0 +1,15 @@
+D:\train\DSA\week 1\dsa\bin\Debug\net7.0\DSA.exe
+D:\train\DSA\week 1\dsa\bin\Debug\net7.0\DSA.deps.json
+D:\train\DSA\week 1\dsa\bin\Debug\net7.0\DSA.runtimeconfig.json
+D:\train\DSA\week 1\dsa\bin\Debug\net7.0\DSA.dll
+D:\train\DSA\week 1\dsa\bin\Debug\net7.0\DSA.pdb
+D:\train\DSA\week 1\dsa\obj\Debug\net7.0\DSA.csproj.AssemblyReference.cache
+D:\train\DSA\week 1\dsa\obj\Debug\net7.0\DSA.GeneratedMSBuildEditorConfig.editorconfig
+D:\train\DSA\week 1\dsa\obj\Debug\net7.0\DSA.AssemblyInfoInputs.cache
+D:\train\DSA\week 1\dsa\obj\Debug\net7.0\DSA.AssemblyInfo.cs
+D:\train\DSA\week 1\dsa\obj\Debug\net7.0\DSA.csproj.CoreCompileInputs.cache
+D:\train\DSA\week 1\dsa\obj\Debug\net7.0\DSA.dll
+D:\train\DSA\week 1\dsa\obj\Debug\net7.0\refint\DSA.dll
+D:\train\DSA\week 1\dsa\obj\Debug\net7.0\DSA.pdb
+D:\train\DSA\week 1\dsa\obj\Debug\net7.0\DSA.genruntimeconfig.cache
+D:\train\DSA\week 1\dsa\obj\Debug\net7.0\ref\DSA.dll
