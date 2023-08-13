@@ -6,22 +6,20 @@ using System.Threading.Tasks;
 
 namespace DataStructures.LinkedList
 {
-    public class DoublyLinkedList<T> : ICollection<T>
+    public class SingleLinkedList<T> : ICollection<t>
     {
 
-        public T CurrentNodeValue { get; private set; }
-        public T? Head { get; private set; }
-        public T? Tail { get; private set; }
+        public required T CurrentNodeValue { get; set; }
+        public T? NextNodeValue { get; set; }
 
         public int Count => throw new NotImplementedException();
 
         public bool IsReadOnly => throw new NotImplementedException();
 
-        public DoublyLinkedList(T currentNodeValue, T head, T tail)
+        public SingleLinkedList(T currentNodeValue, T nextNodeValue)
         {
             CurrentNodeValue = currentNodeValue;
-            Head = head;
-            Tail = tail;
+            NextNodeValue = nextNodeValue;
         }
 
         public void Add(T item)
